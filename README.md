@@ -4,7 +4,7 @@ Computer Science 2nd Year Undergraduate @ University of Colombo School of Comput
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 💼 Freelance Web & Software Developer  
-- 🔭 Here's my [portfolio](https://jeyaneedhandev.framer.website/)  
+- 🔭 Here's my [portfolio](https://jeyaneedhan.vercel.app/)  
 - 🌱 Always improving my problem-solving skills and exploring innovative tech solutions
 - 💡 Passionate about building practical solutions for real-world problems  
 - 🖥️ Enthusiastic about exploring new technologies and framework
